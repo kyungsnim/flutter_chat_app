@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299419830894",
+    "firebase_url": "https://free-chat-app-3e78b.firebaseio.com",
+    "project_id": "free-chat-app-3e78b",
+    "storage_bucket": "free-chat-app-3e78b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299419830894:android:8ceca5eecfacce2e6a347f",
+        "android_client_info": {
+          "package_name": "com.kyungsnim.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299419830894-ltqt55r5cjceegbrh8nor83bsas3usnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgV885EhsYJfGSnkg98CeynOmtwMtkbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299419830894-ltqt55r5cjceegbrh8nor83bsas3usnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
